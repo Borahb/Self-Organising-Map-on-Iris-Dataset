@@ -15,4 +15,14 @@ https://en.wikipedia.org/wiki/Self-organizing_map
 
 https://www.sciencedirect.com/topics/engineering/self-organizing-map
 
+## Implementation
+
+![](som.png)
+
+In simpler terms, the darker parts represent clusters, while the lighter parts represent the division of the clusters.
+
+## Result SOM
+
+![](irissomimg.png)
+
 
