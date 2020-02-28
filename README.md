@@ -24,6 +24,7 @@ In simpler terms, the darker parts represent clusters, while the lighter parts r
 
 ## Result SOM
 
+ Red,iris-setosa, Green,iris-versicolor ,Blue,iris-virginica
 
 ![](irissomimg.png)
 
